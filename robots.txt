@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://railfansday.github.io/newera2/sitemap.xml
