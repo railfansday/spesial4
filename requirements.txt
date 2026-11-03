@@ -4,6 +4,7 @@ beautifulsoup4
 lxml
 python-dateutil
 bleach
-pip install requests 
+pip 
+install requests 
 google-auth 
-google-auth-httplib2 beautifulsoup4.
+google-auth-httplib2 
